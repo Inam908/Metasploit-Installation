@@ -2,10 +2,6 @@
 ************* 
 ************** 
 *****************
-################################
-ये metasploit है
-इनस्टॉल करना सरल है  
-केवल एक command से हो जाएगा। 
+################################   metasploit command 
 command:-
-sh metasploit.sh 
-ये command से हो जाएगा इनस्टॉल
+sh metasploit.sh  command 
